@@ -7,7 +7,5 @@ Things I love about CS193...
 - the inclusive atmosphere
 - the comfy chairs 
 
-
-[Link](url) and <img src="prompic.jpg" alt="Hi! This is me :)">
 ```
 
