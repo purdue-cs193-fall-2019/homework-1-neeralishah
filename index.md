@@ -8,6 +8,6 @@ Things I love about CS193...
 - the comfy chairs 
 
 
-[Link](url) and ![prom pic](src)
+[Link](url) and <img src="prompic.jpg" alt="Hi! This is me :)">
 ```
 
